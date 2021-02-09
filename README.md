@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Cihan 👋
+
+- 🔭 I’m currently working on Flutter 💎
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on any kinda open source project. Just let me know 😋
+- 💬 Ask me about Dart & Flutter
+- 📫 How to reach me: b.cihancengiz@gmail.com 💌
 
 <!--
 **bcihanc/bcihanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
