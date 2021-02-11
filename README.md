@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on any kinda open source project. Just let me know 😋
 - 💬 Ask me about Dart & Flutter
 - 📫 How to reach me: b.cihancengiz@gmail.com 💌
+- ⚡ [Resume](https://bcihanc.github.io/flutter_resume)
+
 
 <!--
 **bcihanc/bcihanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
