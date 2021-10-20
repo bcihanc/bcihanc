@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on any kinda open source project. Just let me know 😋
 - 💬 Ask me about Dart & Flutter
 - 📫 How to reach me: b.cihancengiz@gmail.com 💌
-- ⚡ [Resume](https://bcihanc.github.io/flutter_resume)
 
 
 <!--
