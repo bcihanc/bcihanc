@@ -1,9 +1,9 @@
 ### Hi there, I'm Cihan 👋
 
-- 🔭 I’m currently working on Flutter 💎
+- 🔭 I’m currently working on Flutter 💎 & NodeJS 🍀
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on any kinda open source project. Just let me know 😋
-- 💬 Ask me about Dart & Flutter
+- 💬 Ask me about Flutter & NodeJS
 - 📫 How to reach me: b.cihancengiz@gmail.com 💌
 
 
